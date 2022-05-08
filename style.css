@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(246, 244, 247);
+}
+.container{
+    margin-bottom: 20px;
+}
+.logo-img{
+    width: 200px;
+}
+.carousel-item{
+    background-color: rgba(233, 250, 244, 0.955);
+    border-radius: 10px;
+    padding-left: 100px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #5164f5 0%, #bb3ef5 100%);
+    color:#fff;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 35px;
+    cursor: pointer
+}
+.eid{
+    height: 176px;
+    background-color: rgba(255, 68, 0, 0.901);
+    margin:40px;
+    border-radius: 15px;
+}
+.eid-b{
+    border: none;
+    color:rgba(255, 68, 0, 0.901) ;
+    background-color: white;
+    border-radius: 100px;
+    padding: 5px 20px;
+    margin: 10px;
+}
+.b-l{
+    text-align: center;
+}
+.bg{
+    border: none;
+    padding-right: 80px;
+    border-radius: 100px;
+    margin-right: 10px;
+    height: 50px;
+    background-color: #fff;
+}
+#t-c{
+    color: rgb(119, 121, 124);
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgba(235, 227, 227, 0.871);
+}
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+.price{
+    color: black;
+}
+.c-m{
+    margin: 1px;
+}
+.blm{
+    border-color: rgba(239, 66, 3, 0.863);
+    padding: 20px 200px;
+    color:rgba(255, 68, 0, 0.901) ;
+}
+.copy{
+    margin: 30px;
+}
+.text-color{
+    color:rgb(119, 121, 124); 
+}
+
+
