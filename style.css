@@ -73,5 +73,17 @@ body{
 .text-color{
     color:rgb(119, 121, 124); 
 }
+.Customer{
+    background-color: #3f1872;
+    margin-top: 30px;
+}
+.Care{
+    color: #fff;
+   margin-left: 100px;
+}
+.follow-us{
+    margin-top: 30px;
+}
+
 
 
